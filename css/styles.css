@@ -602,6 +602,13 @@ progress {
   height: auto;
 }
 
+.img-bg{
+  width: auto;
+  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
